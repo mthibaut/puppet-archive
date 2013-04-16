@@ -1,5 +1,7 @@
 #Type: archive
 
+[![Build Status](https://travis-ci.org/mthibaut/puppet-archive.png?branch=master)](https://travis-ci.org/mthibaut/puppet-archive)
+
 A puppet type ensuring that archives are packed or unpacked. 
 
 ##Examples
